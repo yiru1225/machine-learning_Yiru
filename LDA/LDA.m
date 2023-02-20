@@ -1,4 +1,4 @@
-clear;
+clear all;
 % 1.人脸数据集的导入与数据处理框架
 reshaped_faces=[];
 % 声明数据库名
