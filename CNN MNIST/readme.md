@@ -1,1 +1,1 @@
-
+This is a classification model training+deployment project based on MNIST dataset using CNN, after downloading and importing, first run CNN MNSI Define.py to get the model model.h5, put the model into the project and then run flask_CNN for web deployment.
